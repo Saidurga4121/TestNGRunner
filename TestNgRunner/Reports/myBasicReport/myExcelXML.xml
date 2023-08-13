@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Active Project Execution">
+  <test thread-count="5" name="OrangeHRMPage_1">
+    <classes>
+      <class name="ProjectRunner.OrangeHRMTest"/>
+    </classes>
+  </test> <!-- OrangeHRMPage_1 -->
+</suite> <!-- Active Project Execution -->
